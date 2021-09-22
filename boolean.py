@@ -1,12 +1,12 @@
 # Boolean Values
-# print(8 >  9)
-# print(8== 9)
-# print(12< 11)
+print(8 >  9)
+print(8== 9)
+print(12< 11)
 
 
 # # Evaluate Values and Variables
-# print(bool("Hello"))
-# print(bool("rhy"))
+print(bool("Hello"))
+print(bool("rhy"))
 
 # # Most Values are True
 # # Almost any value is evaluated to True if it has some sort of content.
@@ -29,9 +29,9 @@ bool([])
 bool({})
 
 # # Functions can Return a Boolean
-# def myFunction() :
-#       return True
+ def myFunction() :
+      return True
 
-# print(myFunction())
+print(myFunction())
 
 
